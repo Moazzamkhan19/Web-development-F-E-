@@ -20,10 +20,9 @@ body {
     background-color: lightgrey;
     text-align: right;
     font-weight: bold;
-    font-size: 1.2em;
     margin-bottom: 5px;
     margin-left: 300px;
-
+font-size: 1.25em;
 
 }
 
@@ -35,6 +34,7 @@ body {
 }
 
 h1 {
+    font-size: 1.75em;
     text-align: center;
 }
 
